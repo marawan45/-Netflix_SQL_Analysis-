@@ -1,20 +1,22 @@
-Netflix Data Analysis with SQL
+## Netflix Data Analysis with SQL
+
 This repository contains SQL queries used to analyze a dataset of Netflix titles and credits. The analysis aims to extract insights into content trends, popular genres, top-performing titles, and key contributors (actors and directors) on the Netflix platform.
 
-Table of Contents
-Project Overview
+## Table of Contents
+# Project Overview
 
-Dataset
+# Dataset
 
-Analysis Questions & Queries
+# Analysis Questions & Queries
 
-How to Use
+# How to Use
 
-Contributing
+# Contributing
 
-License
+# License
 
-Project Overview
+## Project Overview
+
 This project focuses on performing a detailed SQL-based analysis of Netflix's content library. The SQL scripts provided answer various questions related to:
 
 Distribution of movies vs. shows.
@@ -31,7 +33,8 @@ Genre popularity.
 
 Titles with high ratings and popularity.
 
-Dataset
+## Dataset
+
 The analysis is based on two primary tables, presumably NetflixTitles and NetflixCredits.
 
 NetflixTitles: Contains information about Netflix titles, including:
@@ -70,7 +73,7 @@ character (if applicable)
 
 (Note: The exact schema and column names are inferred from the provided SQL queries.)
 
-Analysis Questions & Queries
+## Analysis Questions & Queries
 The SQL files (Netflix_SQL_Analysis.sql and Netflix_SQL_Analysis_2.sql) contain queries addressing the following questions:
 
 General Content Overview
@@ -134,7 +137,7 @@ Which shows on Netflix have the most seasons?
 Time-based Analysis
 Count of movies and shows in each decade.
 
-How to Use
+## How to Use
 To use these SQL queries:
 
 Database Setup: Ensure you have a SQL database (e.g., SQL Server, MySQL, PostgreSQL) set up.
