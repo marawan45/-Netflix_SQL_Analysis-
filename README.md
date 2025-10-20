@@ -1,19 +1,19 @@
-## Netflix Data Analysis with SQL
+# Netflix Data Analysis with SQL
 
 This repository contains SQL queries used to analyze a dataset of Netflix titles and credits. The analysis aims to extract insights into content trends, popular genres, top-performing titles, and key contributors (actors and directors) on the Netflix platform.
 
-## Table of Contents
-# Project Overview
+# Table of Contents
+## Project Overview
 
-# Dataset
+## Dataset
 
-# Analysis Questions & Queries
+## Analysis Questions & Queries
 
-# How to Use
+## How to Use
 
-# Contributing
+## Contributing
 
-# License
+## License
 
 ## Project Overview
 
